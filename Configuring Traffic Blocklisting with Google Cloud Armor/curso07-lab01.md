@@ -1,0 +1,1 @@
+Aprenda a rodar o script lendo o curso05-lab02.md. O segundo teste do lab realmente demora alguns minutos para passar,mas dá certo.
