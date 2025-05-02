@@ -1,0 +1,1 @@
+Quando no terminal aparecer "step manual necessário" pode ignorar e apertar enter.
