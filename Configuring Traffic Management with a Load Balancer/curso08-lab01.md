@@ -1,0 +1,1 @@
+A parte de configurar o load balancer é manual, o script vai pausar e pedir para que você siga as instruções do lab. Mas só essa parte é manual, todo o resto é feito automaticamente.
